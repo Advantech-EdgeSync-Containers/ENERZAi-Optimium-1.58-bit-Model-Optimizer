@@ -48,8 +48,8 @@ python demo.py
 from optimium_whisper.optimium_whisper.util import decode_audio
 from optimium_whisper.optimium_whisper.model import OptimiumWhisper
 
-model = OptimiumWhisper(model_path="/models/whisper_advantech_small_en_seqlen_1000") # English
-# model = OptimiumWhisper(model_path="/models/whisper_advantech_small_zh_seqlen_1000") # Chinese
+model = OptimiumWhisper(model_path="/models/whisper_advantech_small_en_seqlen_1000") # English fix path
+# model = OptimiumWhisper(model_path="/models/whisper_advantech_small_zh_seqlen_1000") # Chinese fix path
 
 audio_data = decode_audio("./Can you recommend three tour sites of Taipei.wav", sampling_rate=16000) # wav to pcm and resampling
 sr = 16000
