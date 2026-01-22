@@ -3,7 +3,7 @@
 # Qualcomm-containers_optimium_whisper
 
 ## 1. Container Functional Overview
-The **Qualcomm-containers_optimium_whisper** container is designed to facilitate the deployment and usage of Optimium models on edge devices. It provides a pre-configured environment to run high-efficiency AI inference tasks seamlessly.
+The **Qualcomm-containers_optimium_whisper** container is designed to facilitate the deployment and usage of speech to text models powered by our own proprietary inference engine Optimium on edge devices. It provides a pre-configured environment to run high-efficiency AI inference tasks seamlessly.
 
 ## 2. Key Features
 *   **Architecture:** Built exclusively for **Linux Arm64**.
