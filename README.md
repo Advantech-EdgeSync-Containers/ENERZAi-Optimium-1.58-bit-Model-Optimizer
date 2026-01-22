@@ -81,6 +81,6 @@ The following table compares the performance of **Optimium** against **Fast-Whis
 | **Optimium (CPU only)** | Small | 10s | 6 | 160,130 | 1040.23 | 34 / 45.11 | 2746.56 | |
 | **Optimium (CPU only)** | Small | 10s | 4 | - | 3067.67 | 34 / 36.33 | 4682.54 | |
 | **Optimium (CPU only)** | Small | 10s | Enc: 6<br>Dec: 4 | - | 1051.40 | 34 / 36.33 | 2660.36 | Optimized for 4 performance cores + 4 efficiency cores architecture |
-| **Fast-Whisper (CTranslate2)** | Small (INT8) | 10s | 6 | 731,796 |  |  |  |  |
+| **Fast-Whisper (CTranslate2)** | Small (INT8) | 10s | 6 | 731,796 | 2386 | 33 / 82.1515 | 5098 |  |
 
 **Table 1.** Performance comparison of AI backends on the target hardware.
