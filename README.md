@@ -1,3 +1,4 @@
+![Enerzai](./data/enerzai_logo.svg)
 # ENERZAi Optimium 1.58-bit Model Optimizer
 
 # Qualcomm-containers_optimium_whisper
